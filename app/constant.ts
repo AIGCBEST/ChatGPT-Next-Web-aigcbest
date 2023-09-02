@@ -1,6 +1,6 @@
 export const OWNER = "AI";
 export const REPO = "ChatGPT-Next-Web";
-export const REPO_URL = `https://chatfree.aigc369.com`;
+export const REPO_URL = ``;
 export const ISSUE_URL = `https://github.com/${OWNER}/${REPO}/issues`;
 export const UPDATE_URL = `${REPO_URL}#keep-updated`;
 export const RELEASE_URL = `${REPO_URL}/releases`;
