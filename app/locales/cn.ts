@@ -7,8 +7,8 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized: isApp
-      ? "检测到无效 API Key，请前往[设置](/#/settings)页检查 API Key 是否配置正确。"
-      : "访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码，或者在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
+      ? "令牌 key 不正确或为空，请在[设置](/#/settings)页填入自己在[钱多多 API ](https://api.aigcbest.top/)中创建的令牌 key\n\n[设置](/#/settings)中已默认填写了本站的接口地址，仅支持[钱多多 API ](https://api.aigcbest.top/)生成的 key，如您需要使用官方 key 请在[设置](/#/settings)中将接口地址删除即可\n\n有任何问题请点击[设置](/#/settings)最下面的【立即清除】"
+      : "令牌 key 不正确或为空，请在[设置](/#/settings)页填入自己在[钱多多 API ](https://api.aigcbest.top/)中创建的令牌 key\n\n[设置](/#/settings)中已默认填写了本站的接口地址，仅支持[钱多多 API ](https://api.aigcbest.top/)生成的 key，如您需要使用官方 key 请在[设置](/#/settings)中将接口地址删除即可\n\n有任何问题请点击[设置](/#/settings)最下面的【立即清除】",
   },
   Auth: {
     Title: "需要密码",
