@@ -342,7 +342,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗\n\n[设置](/#/settings)中已默认填写了本站的接口地址，仅支持[钱多多 API ](https://api.aigcbest.top/)生成的 key，如您需要使用官方 key 请在[设置](/#/settings)中将接口地址删除即可\n\n有任何问题请点击[设置](/#/settings)最下面的【立即清除】",
+    BotHello: "有什么可以帮你的吗\n\n[设置](/#/settings)中的自定义接口已默认填写了本站的接口地址，仅支持[佩奇聚合 API ](https://api.aigcbest.top/)后台生成的令牌 key，如您需要使用官方账号生成的令牌 key 请在[设置](/#/settings)中将接口地址修改为【api.openai.com】即可\n\n有任何问题请点击[设置](/#/settings)最下面的【立即清除】",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
