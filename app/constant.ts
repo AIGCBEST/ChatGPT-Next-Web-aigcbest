@@ -1,5 +1,5 @@
-export const OWNER = "AI";
-export const REPO = "ChatGPT-Next-Web";
+export const OWNER = "钱多多";
+export const REPO = "钱多多 API";
 export const REPO_URL = ``;
 export const ISSUE_URL = `https://github.com/${OWNER}/${REPO}/issues`;
 export const UPDATE_URL = `${REPO_URL}#keep-updated`;
