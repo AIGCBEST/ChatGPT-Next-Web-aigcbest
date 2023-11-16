@@ -155,10 +155,10 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          钱多多 API
+        Money More More
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          你的专属私人 ChatGPT 助理
+        钱多多AI模型聊天应用
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
