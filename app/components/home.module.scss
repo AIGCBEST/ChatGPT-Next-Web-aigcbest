@@ -149,6 +149,10 @@
   font-size: 20px;
   font-weight: bold;
   animation: slide-in ease 0.3s;
+  font-family: 'Arial Rounded MT Bold', Arial, sans-serif; 
+background: linear-gradient(to right, #FFD26F, #3677FF); 
+-webkit-background-clip: text; 
+-webkit-text-fill-color: transparent;
 }
 
 .sidebar-sub-title {
