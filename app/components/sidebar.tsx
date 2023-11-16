@@ -158,7 +158,6 @@ export function SideBar(props: { className?: string }) {
         Money More More
         </div>
         <div className={styles["sidebar-sub-title"]}>
-        钱多多AI模型聊天应用
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
