@@ -6,8 +6,8 @@ import { getClientConfig } from "./config/client";
 import { type Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Money More More",
-  description: "钱多多AI模型聊天应用",
+  title: "Money More",
+  description: "钱多多 API 聊天应用",
   viewport: {
     width: "device-width",
     initialScale: 1,
